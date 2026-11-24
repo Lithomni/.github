@@ -11,13 +11,13 @@
 | **Exploration data** | Loading, cleaning and checking drillhole, assay, geochemistry and geophysics data, legacy files included |
 | **Maps and spatial apps** | Map viewers, data portals and spatial tools in the browser |
 | **Applied AI** | Machine learning and AI assistants that work on your own data and say how sure they are |
-| **Training** | Courses that teach geologists Python, data science and core logging |
+| **Training** | A course that teaches geologists Python, data science, machine learning and AI |
 
 You own the code and the data, with the documentation to carry on without us.
 
 ### What we make
 
-[**XploraHub**](https://xplorahub.com) is open ground for exploration and mining technology, where the industry's tools are shown, questioned and improved. It is also home to our [courses for geologists](https://xplorahub.com/courses) (Python, data science and machine learning, and core logging on real core in 3D) and to [competitions](https://xplorahub.com/competitions): a blind test for exploration methods on synthetic geology.
+[**XploraHub**](https://xplorahub.com) is open ground for exploration and mining technology, where the industry's tools are shown, questioned and improved. It is also home to our [course for geologists](https://xplorahub.com/courses) (Python, data science, machine learning and AI, in six interactive modules from 3D drill holes to core logging) and to [competitions](https://xplorahub.com/competitions): a blind test for exploration methods on synthetic geology.
 
 Open-source lists and data from XploraHub live at [github.com/XploraHub](https://github.com/XploraHub).
 
